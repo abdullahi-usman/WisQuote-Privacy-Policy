@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## WisQuotes Privacy Policy.
+### [WisQuotes](https://play.google.com/store/apps/details?id=com.dahham.wislock)
 
-You can use the [editor on GitHub](https://github.com/dahham/WisQuote-Privacy-Policy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+WisQuotes does not use or transport any of your personal data whatsoever from your device(s).
+In an advert that you may see some permissions such as **READ_PHONE_STATE**. These are permmissions only
+required by third party software(s) in order to act accordingly to the way they work, such as to provide
+rich content according to usage.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are permission(s) such as **WRITE_EXTERNAL_STORAGE** and **READ_EXTERNAL_STORAGE**. These are permission required
+only for backward compatibility on android devices < API 14 which may however also be seen on devices higher than 
+that API, but remember it may not be required on the devices > API 14. Further more also note that WisQuotes fetched its 
+content such as images and Quotes that are stored only on the app's private directory supplied by the Android OS.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+This policy may be subjected to modification at any time.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dahham/WisQuote-Privacy-Policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you for your understanding.

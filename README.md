@@ -1,7 +1,7 @@
 ## WisQuotes Privacy Policy.
 ### [WisQuotes](https://play.google.com/store/apps/details?id=com.dahham.wislock)
 
-![https://play.google.com/store/apps/details?id=com.dahham.wislock](wisquotes_playstore.png)
+![wisquotes_playstore.png](https://play.google.com/store/apps/details?id=com.dahham.wislock)
 
 
 WisQuotes does not use or transport any of your personal data whatsoever from your device(s).
